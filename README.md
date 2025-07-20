@@ -9,3 +9,4 @@ How to run the Project
 7.Run the script http://localhost/DATA_MANIPULATION/DATA_MANIPULATION/index.php (frontend)
 
 
+---
